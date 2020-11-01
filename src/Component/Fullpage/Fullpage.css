@@ -1,0 +1,13 @@
+.full-area{
+    display: flex;
+}
+
+.user-container{
+    width: 50%;
+    border-right: 1px solid lightgray;
+    margin-left: 300px;
+}
+
+.total-container{
+    margin-right: 100px;
+}

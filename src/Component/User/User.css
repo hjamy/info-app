@@ -1,0 +1,33 @@
+.user{
+    display: flex;
+    border: 2px solid white;
+    background-color: darkslategray;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+}
+
+.user img{
+    height: 270px;
+    width: 240px;
+}
+
+.user-info{
+    margin-left: 20px;
+}
+
+.user-info h4, p{
+    font-weight: 400;
+    font-size: 20px;
+    color: floralwhite;
+}
+
+.connect-button{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(28, 122, 245);
+    border: none;
+    border-radius: 10px;
+    color: snow;
+    font-size: 15px;
+}
